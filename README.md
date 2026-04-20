@@ -1,2 +1,2 @@
 # Geocodificacion
-Es una Herramienta que permite capturar datos de coordenadas geográficas por medio de la consola y que después se geocodifican para  obtener una dirección del punto capturado.
+Es una Herramienta que permite capturar datos de coordenadas geográficas por medio de la consola y que después se geocodifican para  obtener una dirección textual de las coordenadas obtenidas a traves de un dispositivo móvil. El programa se divide en 2 partes, la primera parte es la captura de datos que se desarrolla en Java y la segunda parte, es la geocodificación que se implementa en Python. 
